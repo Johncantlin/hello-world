@@ -4,3 +4,5 @@ AT this time the tutorial says I should write about myself so here goes.
 Do you play the Tuba John?
 No
 There you have it. A little about me. Very little actually.
+...
+Hmm, Now I'm trying to edit my very first clever introduction. You are looking at my first edit ... which starts "hmm, I'm trying"
